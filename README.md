@@ -12,7 +12,7 @@ Weather Main is a simple weather application that provides current weather infor
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/weather-main.git
+    git clone https://github.com/Praneshajay/weather-app.git
     ```
 2. Navigate to the project directory:
     ```sh
