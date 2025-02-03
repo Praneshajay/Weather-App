@@ -1,6 +1,6 @@
-# Weather Main
+# Weather App
 
-Weather Main is a simple weather application that provides current weather information for a specified location.
+Weather App is a simple weather application that provides current weather information for a specified location.
 
 ## Features
 
